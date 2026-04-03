@@ -4,6 +4,6 @@
       "email": "haikalforum@gmail.com"
    },
    "records": {
-      "A": "160.191.77.60"
+      "A": ["160.191.77.60"]
    }
 }
